@@ -1,0 +1,8 @@
+{
+  "name": "job-tracker",
+  "version": "1.0.0",
+  "description": "Track and organize job applications — add, list, update status, and add notes for jobs you want to apply to",
+  "author": {
+    "name": "hsuan"
+  }
+}
